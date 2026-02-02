@@ -5,7 +5,7 @@
 <p><em>Customer Success & Technical Operations Professional</em><br/>
 <em>Turning complex technical problems into seamless customer experiences</em></p>
 
-<img src="https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-0f172a?style=flat-square&labelColor=0f172a&color=334155" />
+<img src="https://img.shields.io/badge/Location-San%20Francisco%2C%20CA-0f172a?style=flat-square&labelColor=0f172a&color=334155" />
 <img src="https://img.shields.io/badge/Role-Open%20to%20New%20Opportunities-0f172a?style=flat-square&labelColor=0f172a&color=22c55e" />
 <img src="https://img.shields.io/badge/Education-M.S.%20Information%20Systems-0f172a?style=flat-square&labelColor=0f172a&color=6366f1" />
 
