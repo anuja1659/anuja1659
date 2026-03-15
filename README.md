@@ -21,7 +21,7 @@
 
 ## 🎯 What I Do
 
-I bridge the gap between **technical teams** and **customer success**. With experience across no-code platforms, APIs, data analytics, and customer operations, I help companies understand *why* customers struggle — and build systems so they don't have to struggle again.
+I bridge the gap between **technical teams** and **customer success**. With experience across no-code platforms, APIs, data analytics, and customer operations, I help companies understand *why* customers struggle, and build systems so they don't have to struggle again.
 
 My strongest value: I don't just solve tickets. I find the pattern behind the tickets, then build the process or tool that prevents the next hundred.
 
