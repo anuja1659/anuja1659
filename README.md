@@ -48,6 +48,8 @@ A real-time fintech operations dashboard monitoring 5,000+ payment transactions,
 
 **Stack:** `Python` `Streamlit` `Pandas` `Plotly` `Groq API` `LLaMA 3.3`
 
+**Project Link:** https://anuja1659-payment-pipeline-monitor.streamlit.app
+
 ---
 
 ## 🛠️ Technical Stack
