@@ -1,6 +1,7 @@
 # Hi, I'm Anuja Naik 👋
 
 **Fintech Operations & AI Automation Specialist**
+
 *Building at the intersection of payments intelligence and AI-powered operations*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A9396?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/contact-anuja-naik)
